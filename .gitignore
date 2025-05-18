@@ -47,13 +47,3 @@ dist-ssr
 *.sln
 *.sw?
 node_modules
-.env
-client/node_modules
-server/node_modules
-# Ignore all env files
-*.env
-
-# But track these specific ones
-client/.env
-server/.env
-
